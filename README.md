@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BobbyFresh1
-- 👀 I’m interested in putting and pulling and how to utilize git with coding. 
+- 👀 I’m interested in learning how to use git and better understand general coding.
 - 🌱 I’m currently learning Blockchain technologies, Python, and PowerShell.
 - 📫 
 
