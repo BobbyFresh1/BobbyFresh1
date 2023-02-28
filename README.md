@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BobbyFresh1
-- 👀 I’m interested in learning how to use git and better understand general coding.
-- 🌱 I’m currently learning Blockchain technologies, Python, and PowerShell.
+- 👀 I’m interested in learning coding concepts and commonly used tools for both fun and work.
+- 🌱 I’m currently focusing on various Blockchain technologies, Python, and PowerShell.
 - 📫 
 
 <!---
